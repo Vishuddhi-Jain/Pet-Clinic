@@ -955,6 +955,11 @@ nav
     width: 100%;
 }
 
+.footer-2 .footer-send input::placeholder
+{
+    color:white;
+}
+
 .footer-send i
 {
     color: white;
