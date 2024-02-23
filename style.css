@@ -951,13 +951,13 @@ nav
     border: none;
     outline: none;
     font-size: 20px;
-    padding: 20px 10px;
+    padding: 20px 20px;
     width: 100%;
 }
 
-.footer-2 .footer-send input::placeholder
+.footer-send input::placeholder
 {
-    color:white;
+    color: white;
 }
 
 .footer-send i
